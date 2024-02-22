@@ -1,3 +1,3 @@
 # Software-Testing-Lab0
 
-![](https://github.com/<user>/<repo>/actions/workflows/<yaml-file>/badge.svg)
+![](https://github.com/cherry900606/Software-Testing-Lab0/actions/workflows/github-actions-demo.yml/badge.svg)
